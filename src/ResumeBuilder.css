@@ -1,0 +1,124 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: calc(100% - 220px); /* 150px left + 70px right */
+    max-width: 800px;
+    margin-left: 150px;
+    margin-right: 70px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h2 {
+    font-size: 26px;
+    color: #333;
+    text-align: center;
+    border-bottom: 2px solid #6C63FF;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    width: 100%;
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: calc(50% - 10px);
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    margin-bottom: 15px;
+}
+
+.form-group textarea {
+    width: 100%;
+    resize: vertical;
+    height: 100px;
+}
+
+.button-group {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.button-group button {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #6C63FF;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button-group button:hover {
+    background-color: #5149d3;
+}
+
+.section-header {
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #6C63FF;
+}
+
+.section-content {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-left: 4px solid #6C63FF;
+    border-radius: 4px;
+}
+
+.resume-preview {
+    padding: 20px;
+    margin-top: 40px;
+    border: 1px solid #ddd;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.resume-preview h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #333;
+    border-bottom: 2px solid #6C63FF;
+    padding-bottom: 5px;
+}
+
+.resume-preview p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.resume-preview .section {
+    margin-bottom: 20px;
+}

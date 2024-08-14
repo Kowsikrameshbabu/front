@@ -1,0 +1,89 @@
+/* Container */
+.applicationsmaindiv {    
+    margin-left: 300px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.applications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Card Styling */
+.application-card {
+    height: 200px;
+    width: 1160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.application-info {
+    display: flex;
+    margin-bottom: 30px;
+    flex: 1;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+/* Button Styling */
+.accept-btn, .reject-btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+}
+
+.accept-btn {
+    background-color: #4CAF50;
+}
+
+.reject-btn {
+    background-color: #f44336;
+}
+
+/* Hover Effects */
+.accept-btn:hover {
+    background-color: #45a049;
+}
+
+.reject-btn:hover {
+    background-color: #e53935;
+}
+
+/* Disabled State */
+.accept-btn[disabled], .reject-btn[disabled] {
+    background-color: #aaa;
+    cursor: not-allowed;
+}
+
+/* Status Text */
+.status-text {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.status-text.accepted {
+    color: #4CAF50;
+}
+
+.status-text.rejected {
+    color: #f44336;
+}
+
+.action-buttons{
+    margin-left: 60px;
+   
+}

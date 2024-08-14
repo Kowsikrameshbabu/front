@@ -1,0 +1,119 @@
+/* FileUpload.css */
+
+/* Container styling */
+.file-upload-container {
+    margin-left:200px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 100px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+/* Form styling */
+.file-upload-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Input fields styling */
+.file-upload-form input[type="text"],
+.file-upload-form input[type="file"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+/* Button styling */
+.file-upload-form button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.file-upload-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Retrieve button styling */
+.retrieve-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.retrieve-button:hover {
+    background-color: #218838;
+}
+
+
+iframe {
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;
+}
+.fileuploadmaindiv{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+
+.resumelistmaindiv {
+    margin-top: 20px;
+}
+
+.resume-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color:rgb(255, 255, 255);
+    gap: 20px;
+}
+
+.resume-box {
+    background-color: #1b62bf;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    text-align: left;
+}
+
+.resume-box h4 {
+    margin-bottom: 10px;
+}
+
+.resume-box strong {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.bt {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.bt:hover {
+    background-color: #0056b3;
+}

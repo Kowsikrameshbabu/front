@@ -1,0 +1,105 @@
+.reports-container {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 77vw;
+    margin-top: 20px;
+    margin-left: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.reports-section {
+    margin-bottom: 40px;
+}
+
+.reports-section h2 {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.top-recruiters-section {
+    margin-top: 40px;
+}
+
+.top-recruiters-section h2 {
+    margin-bottom: 20px;
+}
+
+.recruiters-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.recruiter-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.recruiter-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recruiter-logo {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.slideshow-section {
+    margin-bottom: 40px;
+  }
+  
+  .slideshow-container {
+    display: flex;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: scroll 20s linear infinite;
+  }
+  
+  @keyframes scroll {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .slide {
+    display: inline-block;
+    width: 200px;
+    margin-right: 20px;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .user-details {
+    text-align: center;
+  }

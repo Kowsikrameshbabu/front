@@ -1,0 +1,173 @@
+body {
+    background-color: rgb(255, 255, 255);
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+    cursor: default;
+}
+
+.xoverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.xLoginbox {
+    border-radius: 6px;
+    height: auto;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    background-color: #fff;
+    width: 450px;
+}
+
+.xLoginbox .xloginh1 {
+    padding-top: 10px;
+}
+
+.xsocial-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    width: 86%;
+    height: 46px;
+    border-radius: 3px;
+    position: relative;
+    color: white;
+    font-size: 16px;
+    gap: 3rem;
+    margin-bottom: 15px;
+}
+
+.xlkd {
+    background-color:  #d06b0d; /* LinkedIn color */
+}
+
+.xgl {
+    background-color: rgb(232, 85, 53); /* Google color */
+}
+
+.xsocial-button .xicon {
+    position: absolute;
+    left: 15px;
+    font-size: 20px;
+}
+
+.xsocial-button span {
+    margin-left: 40px;
+}
+
+.xline {
+    width: 81%;
+    height: 1px;
+    background: #8d8c8c;
+    margin: 20px 0;
+}
+
+.xinputbox1 {
+    padding-top: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 86%;
+}
+
+.xinputbox2 {
+    padding-top: 10px;
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: column;
+    width: 86%;
+    padding-bottom: 18px;
+}
+
+input {
+    padding: 12px;
+    border: none;
+    font-size: 15px;
+    border: 0.5px solid rgb(215, 211, 211);
+    border-radius: 5px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.xsubmitb {
+    align-items: center;
+    display: flex;
+}
+
+.xsubmit {
+    border: none;
+    background-color:  #d06b0d;
+    width: 86%;
+    height: 46px;
+    border-radius: 5px;
+}
+
+.xclose-button {
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 10px;
+    background-color: #c1c0c0;
+    border: none;
+    color: white;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.xclose-button:hover {
+    background-color:  #d06b0d;
+}
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.role-dropdown {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    padding: 8px;
+    height: 35px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 14px;
+    margin-left: 10px;
+    font-size: 14px;
+    width: 150px;
+}
+
+.role-dropdown:focus {
+    outline: none;
+    background-color: #ffffff;
+}
+
+.logsign p {
+    font-size: 18px;
+    padding-right: 10px;
+    font-weight: 600;
+}
+
+.xouterAdmin {
+    background-color: #7f8c9b;
+    height: 1000px;
+    padding-top: 120px;
+    width: 100%;
+}

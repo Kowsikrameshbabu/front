@@ -1,0 +1,405 @@
+{
+  "recruiters": [
+    {
+      "id": "6c3b",
+      "email": "23cse505@skcet.ac.in",
+      "password": "a"
+    },
+    {
+      "id": "50cc",
+      "username": "kk",
+      "email": "Hariharan9612@gmail.com",
+      "password": "kk"
+    },
+    {
+      "id": "63e5",
+      "username": "hh",
+      "email": "hh",
+      "password": "hh"
+    },
+    {
+      "id": "6c38",
+      "username": "Hari Haran",
+      "email": "hariharan9612@gmail.com",
+      "password": "gg"
+    },
+    {
+      "id": "53aa",
+      "username": "Hari Haran",
+      "email": "hariharan9612@gmail.com",
+      "password": "hh"
+    },
+    {
+      "id": "4847",
+      "username": "Hari Haran",
+      "email": "hariharan9612@gmail.com",
+      "password": "aa"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "ff72",
+      "email": "Hariharan9612@gmail.com",
+      "password": "a"
+    },
+    {
+      "id": "2049",
+      "email": "Hariharan9612@gmail.com",
+      "password": "hj"
+    },
+    {
+      "id": "adb6",
+      "username": "jj",
+      "email": "Hariharan9612@gmail.com",
+      "password": "jj"
+    },
+    {
+      "id": "65c2",
+      "username": "jjj",
+      "email": "Hariharan9612@gmail.com",
+      "password": "jjj"
+    },
+    {
+      "id": "273d",
+      "username": "hari",
+      "email": "Hariharan9612@gmail.com",
+      "password": "jj"
+    },
+    {
+      "id": "6ea4",
+      "username": "jj",
+      "email": "hariharand7373@gmail.com",
+      "password": "jj"
+    },
+    {
+      "id": "21c1",
+      "username": "jj",
+      "email": "Hariharan9612@gmail.com",
+      "password": "jj"
+    },
+    {
+      "id": "91fe",
+      "username": "hh",
+      "email": "hh",
+      "password": "hh"
+    },
+    {
+      "id": "9762",
+      "username": "Hari Haran",
+      "email": "hariharan9612@gmail.com",
+      "password": "hh"
+    },
+    {
+      "id": "b8da",
+      "username": "Job hive",
+      "email": "jobhiveplatform@gmail.com",
+      "password": "jj"
+    },
+    {
+      "id": "3af6",
+      "username": "jj",
+      "email": "jj",
+      "password": "jj"
+    },
+    {
+      "id": "3f21",
+      "username": "aa",
+      "email": "aa",
+      "password": "aa"
+    }
+  ],
+  "Admin": [
+    {
+      "id": "9762",
+      "username": "Hari Haran",
+      "email": "hariharan9612@gmail.com",
+      "password": "hh"
+    },
+    {
+      "username": "jj",
+      "email": "jj",
+      "password": "jj",
+      "id": "3c78"
+    }
+  ],
+  "jobs":[
+    {
+        "id": 1,
+        "jobTitle": "Software Developer",
+        "workmode": "Remote",
+        "jobType": "internship",
+        "applicationDeadline": "2024-08-17",
+        "salary": "20000-30000",
+        "jobDescription": "Develop and maintain software solutions for scalable and efficient systems",
+        "companyName": "Facebook",
+        "companyWebsite": "www.facebook.com",
+        "location": "Bangalore",
+        "facebookPage": "www.facebook.com",
+        "linkedinPage": "www.facebook.com",
+        "twitterPage": "www.facebook.com",
+        "instagramPage": "www.facebook.com",
+        "companyDescription": "good company to work for",
+        "recruiterName": "kowsik",
+        "recruiterEmail": "r.kowshik8055@gmail.com"
+    },
+    {
+        "id": 2,
+        "jobTitle": "Data Analyst",
+        "workmode": "Hybrid",
+        "jobType": "Full Time",
+        "applicationDeadline": "2024-08-17",
+        "salary": "20000-30000",
+        "jobDescription": "Develop and maintain data science solutions for scalable and efficient systems",
+        "companyName": "Tesco",
+        "companyWebsite": "www.tesco.com",
+        "location": "Bangalore",
+        "facebookPage": "www.tesco.com",
+        "linkedinPage": "www.tesco.com",
+        "twitterPage": "www.tesco.com",
+        "instagramPage": "www.tesco.com",
+        "companyDescription": "goog worklife balance",
+        "recruiterName": "kowsik",
+        "recruiterEmail": "r.kowshik8055@gmail.com"
+    },
+    {
+        "id": 3,
+        "jobTitle": "UX Designer",
+        "workmode": "On-site",
+        "jobType": "Contract",
+        "applicationDeadline": "2024-12-01",
+        "salary": "40000-60000",
+        "jobDescription": "Create user-friendly designs and improve user experience.",
+        "companyName": "Apple",
+        "companyWebsite": "www.apple.com",
+        "location": "Cupertino, CA",
+        "facebookPage": "www.facebook.com/apple",
+        "linkedinPage": "www.linkedin.com/company/apple",
+        "twitterPage": "www.twitter.com/apple",
+        "instagramPage": "www.instagram.com/apple",
+        "companyDescription": "Innovative and design-focused.",
+        "recruiterName": "David Brown",
+        "recruiterEmail": "david.brown@apple.com"
+    },
+    {
+        "id": 4,
+        "jobTitle": "Financial Analyst",
+        "workmode": null,
+        "jobType": "Full Time",
+        "applicationDeadline": "2024-11-10",
+        "salary": "45000-55000",
+        "jobDescription": "Analyze financial data and create reports.",
+        "companyName": "Hyundai",
+        "companyWebsite": "www.hyundai.com",
+        "location": "Palo Alto, CA",
+        "facebookPage": "www.facebook.com/hyundai",
+        "linkedinPage": "www.linkedin.com/company/hyundai",
+        "twitterPage": "www.twitter.com/hyundai",
+        "instagramPage": "www.instagram.com/hyundai",
+        "companyDescription": "Innovative and sustainable energy solutions.",
+        "recruiterName": "Emma Davis",
+        "recruiterEmail": "emma.davis@hyundai.com"
+    },
+    {
+        "id": 5,
+        "jobTitle": "Marketing Specialist",
+        "workmode": null,
+        "jobType": "Full Time",
+        "applicationDeadline": "2024-08-25",
+        "salary": "35000-50000",
+        "jobDescription": "Develop and implement marketing strategies.",
+        "companyName": "Instagram",
+        "companyWebsite": "www.instagram.com",
+        "location": "Seattle, WA",
+        "facebookPage": "www.facebook.com/instagram",
+        "linkedinPage": "www.linkedin.com/company/instagram",
+        "twitterPage": "www.twitter.com/instagram",
+        "instagramPage": "www.instagram.com/instagram",
+        "companyDescription": "Customer-centric and innovative.",
+        "recruiterName": "Carol Lee",
+        "recruiterEmail": "carol.lee@instagram.com"
+    },
+    {
+        "id": 6,
+        "jobTitle": "Security Specialist",
+        "workmode": null,
+        "jobType": "Full Time",
+        "applicationDeadline": "2024-08-25",
+        "salary": "35000-50000",
+        "jobDescription": "Develop and implement marketing strategies.",
+        "companyName": "Ford",
+        "companyWebsite": "www.ford.com",
+        "location": "Hyderabad",
+        "facebookPage": "www.facebook.com/ford",
+        "linkedinPage": "www.linkedin.com/company/ford",
+        "twitterPage": "www.twitter.com/ford",
+        "instagramPage": "www.instagram.com/ford",
+        "companyDescription": "Customer-centric and innovative.",
+        "recruiterName": "Carol Lee",
+        "recruiterEmail": "carol.lee@ford.com"
+    },
+    {
+        "id": 7,
+        "jobTitle": "Software Developer",
+        "workmode": "Remote",
+        "jobType": "internship",
+        "applicationDeadline": "2024-08-17",
+        "salary": "20000-30000",
+        "jobDescription": "Develop and maintain software solutions for scalable and efficient systems",
+        "companyName": "Facebook",
+        "companyWebsite": "www.facebook.com",
+        "location": "Bangalore",
+        "facebookPage": "www.facebook.com",
+        "linkedinPage": "www.facebook.com",
+        "twitterPage": "www.facebook.com",
+        "instagramPage": "www.facebook.com",
+        "companyDescription": "good company to work for",
+        "recruiterName": "kowsik",
+        "recruiterEmail": "r.kowshik8055@gmail.com"
+    },
+    {
+        "id": 8,
+        "jobTitle": "Data Analyst",
+        "workmode": "Hybrid",
+        "jobType": "Full Time",
+        "applicationDeadline": "2024-08-17",
+        "salary": "20000-30000",
+        "jobDescription": "Develop and maintain data science solutions for scalable and efficient systems",
+        "companyName": "Tesco",
+        "companyWebsite": "www.tesco.com",
+        "location": "Bangalore",
+        "facebookPage": "www.tesco.com",
+        "linkedinPage": "www.tesco.com",
+        "twitterPage": "www.tesco.com",
+        "instagramPage": "www.tesco.com",
+        "companyDescription": "goog worklife balance",
+        "recruiterName": "kowsik",
+        "recruiterEmail": "r.kowshik8055@gmail.com"
+    },
+    {
+        "id": 9,
+        "jobTitle": "UX Designer",
+        "workmode": "On-site",
+        "jobType": "Contract",
+        "applicationDeadline": "2024-12-01",
+        "salary": "40000-60000",
+        "jobDescription": "Create user-friendly designs and improve user experience.",
+        "companyName": "Apple",
+        "companyWebsite": "www.apple.com",
+        "location": "Cupertino, CA",
+        "facebookPage": "www.facebook.com/apple",
+        "linkedinPage": "www.linkedin.com/company/apple",
+        "twitterPage": "www.twitter.com/apple",
+        "instagramPage": "www.instagram.com/apple",
+        "companyDescription": "Innovative and design-focused.",
+        "recruiterName": "David Brown",
+        "recruiterEmail": "david.brown@apple.com"
+    },
+    {
+        "id": 10,
+        "jobTitle": "Financial Analyst",
+        "workmode": null,
+        "jobType": "Full Time",
+        "applicationDeadline": "2024-11-10",
+        "salary": "45000-55000",
+        "jobDescription": "Analyze financial data and create reports.",
+        "companyName": "Hyundai",
+        "companyWebsite": "www.hyundai.com",
+        "location": "Palo Alto, CA",
+        "facebookPage": "www.facebook.com/hyundai",
+        "linkedinPage": "www.linkedin.com/company/hyundai",
+        "twitterPage": "www.twitter.com/hyundai",
+        "instagramPage": "www.instagram.com/hyundai",
+        "companyDescription": "Innovative and sustainable energy solutions.",
+        "recruiterName": "Emma Davis",
+        "recruiterEmail": "emma.davis@hyundai.com"
+    },
+    {
+        "id": 11,
+        "jobTitle": "Marketing Specialist",
+        "workmode": null,
+        "jobType": "Full Time",
+        "applicationDeadline": "2024-08-25",
+        "salary": "35000-50000",
+        "jobDescription": "Develop and implement marketing strategies.",
+        "companyName": "Instagram",
+        "companyWebsite": "www.instagram.com",
+        "location": "Seattle, WA",
+        "facebookPage": "www.facebook.com/instagram",
+        "linkedinPage": "www.linkedin.com/company/instagram",
+        "twitterPage": "www.twitter.com/instagram",
+        "instagramPage": "www.instagram.com/instagram",
+        "companyDescription": "Customer-centric and innovative.",
+        "recruiterName": "Carol Lee",
+        "recruiterEmail": "carol.lee@instagram.com"
+    },
+    {
+        "id": 12,
+        "jobTitle": "Security Specialist",
+        "workmode": null,
+        "jobType": "Full Time",
+        "applicationDeadline": "2024-08-25",
+        "salary": "35000-50000",
+        "jobDescription": "Develop and implement marketing strategies.",
+        "companyName": "Ford",
+        "companyWebsite": "www.ford.com",
+        "location": "Hyderabad",
+        "facebookPage": "www.facebook.com/ford",
+        "linkedinPage": "www.linkedin.com/company/ford",
+        "twitterPage": "www.twitter.com/ford",
+        "instagramPage": "www.instagram.com/ford",
+        "companyDescription": "Customer-centric and innovative.",
+        "recruiterName": "Carol Lee",
+        "recruiterEmail": "carol.lee@ford.com"
+    }
+],
+  "jobsdata": [
+    {
+      "id": "1",
+      "companyName": "Google",
+      "jobTitle": "UX Designer",
+      "salary": "20000-30000",
+      "location": "www.google.com",
+      "jobDescription": "We are seeking a UX Designer to improve the user experience of our web applications."
+    },
+    {
+      "id": "2",
+      "companyName": "Zoho",
+      "jobTitle": "Software Engineer",
+      "salary": "20000-30000",
+      "location": "www.google.com",
+      "jobDescription": "Join our team as a Software Engineer and contribute to developing innovative solutions."
+    },
+    {
+      "id": "3",
+      "companyName": "Microsoft",
+      "jobTitle": "Product Manager",
+      "salary": "20000-30000",
+      "location": "www.google.com",
+      "jobDescription": "Lead the product development lifecycle and work closely with cross-functional teams to deliver high quality products."
+    },
+    {
+      "id": "4",
+      "companyName": "Adobe",
+      "jobTitle": "Data Analyst ",
+      "salary": "20000-30000",
+      "location": "www.google.com",
+      "jobDescription": "Analyse data to provide actionable insights and support business decisions."
+    },
+    {
+      "id": "5",
+      "companyName": "Pepsi",
+      "jobTitle": "UI/UX Designer",
+      "salary": "20000-30000",
+      "location": "www.google.com",
+      "jobDescription": "Design user interface and experience for Pepsi's digital products to enhance user application."
+    },
+    {
+      "id": "6",
+      "companyName": "Microsoft",
+      "jobTitle": "UI/UX Designer",
+      "salary": "20000-30000",
+      "location": "www.google.com",
+      "jobDescription": "Design user interface and experience for Pepsi's digital products to enhance user application."
+    }
+  ]
+}
